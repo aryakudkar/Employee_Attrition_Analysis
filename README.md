@@ -5,4 +5,13 @@
 
 # Features
 
+# Dataset
+The dataset used in this project includes various features such as employee demographics, job roles, performance ratings, and more. 
+
 # Key Metrics
+* Total Employees
+* Average Age
+* Average Monthly Income
+* Average Years in Company
+
+# Key insights

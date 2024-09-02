@@ -17,3 +17,6 @@ The dataset used in this project includes various features such as employee demo
 * Average Years in Company
 
 # Key insights
+
+# Technical Aspects:
+The Pizza Sales Dashboard is developed using Power BI. 

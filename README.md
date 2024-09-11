@@ -20,4 +20,4 @@
 * Impact of Job Role: Specific job roles have a higher propensity for attrition. This may be due to job dissatisfaction or better opportunities elsewhere, highlighting the need for targeted retention strategies.
 
 # Technical Aspects:
-The Pizza Sales Dashboard is developed using Power BI. 
+The Employee Attrition Dashboard is developed using Power BI. 

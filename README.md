@@ -19,5 +19,5 @@
 * Demographic Factors: Attrition rates vary significantly across different demographic groups (e.g., gender, marital status, education level)
 * Impact of Job Role: Specific job roles have a higher propensity for attrition. This may be due to job dissatisfaction or better opportunities elsewhere, highlighting the need for targeted retention strategies.
 
-# Technical Aspects:
+# Technical Aspects
 The Employee Attrition Dashboard is developed using Power BI. 
